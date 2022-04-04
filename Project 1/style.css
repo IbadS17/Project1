@@ -52,9 +52,11 @@ body{
     color: white;
 }
 .home-content .discription{
-    font-size: 20px;
+    font-size: 25px;
     color: white;
     padding-bottom: 13px;
+    animation-iteration-count: infinite;
+    text-decoration: solid;
 }
 .home-content .button-grp button{
     padding: 10px;
